@@ -1,2 +1,2 @@
- class Hola{}
+ class Hola{int edad;}
 
